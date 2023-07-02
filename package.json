@@ -1,0 +1,19 @@
+{
+  "name": "mycat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mycat_demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skimcode8/my_cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skimcode8/my_cat/issues"
+  },
+  "homepage": "https://github.com/skimcode8/my_cat#readme"
+}
