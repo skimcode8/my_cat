@@ -2,7 +2,7 @@
   "name": "mycat",
   "version": "1.0.0",
   "description": "",
-  "main": "mycat_demo.js",
+  "main": "server.js",
   "scripts": {
     "start" : "node server.js",
     "dev": "nodemon server.js"
